@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Circular Progress Drawable Sample</string>
+    <string name="app_name">Circular Progress View Sample</string>
     <string name="button_style_1_text">Indeterminate + Center fill</string>
     <string name="button_style_2_text">Coloured fill</string>
     <string name="button_style_3_text">Sling empty</string>
